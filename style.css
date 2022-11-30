@@ -1,0 +1,17 @@
+h1,p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+
+}
+section{
+    /* margin:2em; */
+    text-align: center;
+    padding-top: 6em; 
+}
+main{
+    width:100vw;
+    height:100vh;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(131,200,165,1) 66%, rgba(0,212,255,1) 100%);
+    
+}
